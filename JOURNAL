@@ -3,6 +3,12 @@ Wed Mar 28 10:35:05 PDT 2012
 Rails 3.2.2
 ruby 1.9.3p125 (2012-02-16 revision 34643) [i686-linux]
 
+* The process
 1. [ ] Run 01_controller_welcome.sh
 2. [ ] cd app/views/welcome && ln -s ../../../script/troywill/views/welcome/index.html.erb 
 3. [ ] Place views/welcome/index.html.erb under revision control
+
+
+* Notes
+1. HTML Nested lists http://www.w3.org/wiki/HTML_lists
+2. 
